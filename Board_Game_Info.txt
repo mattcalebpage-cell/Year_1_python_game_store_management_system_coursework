@@ -1,0 +1,13 @@
+Game ID,Name,No. Players,Genre,Purchase Date
+scrb_01,Scrabble,2-4,Word,2015-12-11
+scrb_02,Scrabble,2-4,Word,2015-12-11
+scrb_03,Scrabble,2-4,Word,2015-12-11
+uno_01,Uno,3-8,Card,2025-05-15
+uno_02,Uno,3-8,Card,2025-05-15
+chs_01,Chess,2,Strategy,2022-12-25
+chs_02,Chess,2,Strategy,2023-01-12
+chs_03,Chess,2,Strategy,2023-01-12
+art_01,Articulate,4-20,Word,2019-08-02
+bac_01,Backgammon,2,Strategy,2023-01-02
+bac_02,Backgammon,2,Strategy,2023-01-02
+bac_03,Backgammon,2,Strategy,2023-01-02

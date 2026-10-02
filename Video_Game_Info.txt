@@ -1,0 +1,17 @@
+Game ID,Name,Platform,Genre,Purchase Date
+mnc_01,minecraft,PC,sandbox,2015-12-11
+mnc_02,minecraft,PC,sandbox,2016-01-23
+mnc_03,minecraft,PC,sandbox,2016-05-03
+coe33_01,expedition 33,PS5,rpg,2025-05-15
+cp2077_01,cyberpunk 2077,PC,open world,2023-07-26
+cp2077_02,cyberpunk 2077,PC,open world,2024-07-26
+wtc3_01,witcher 3,PC,rpg,2019-03-11
+gowr_01,god of war ragnorok,PC,story,2022-12-25
+gowr_02,god of war ragnorok,PC,story,2022-12-25
+sdv_01,stardew valley,PC,sandbox,2017-09-11
+ff7r_01,final fantasy 7 remake,PC,rpg,2020-01-18
+ztotk_01,zelda tears of the kingdom,nintendo switch,open world,2022-07-21
+smo_01,super mario odyssey,nintendo switch,open world,2018-07-08
+bg3_01,baldur's gate 3,PC,rpg,2024-10-29
+bg3_02,baldur's gate 3,PC,rpg,2025-02-12
+bg3_03,baldur's gate 3,PC,rpg,2024-02-13
